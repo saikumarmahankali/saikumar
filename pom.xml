@@ -6,7 +6,7 @@
 
   <groupId>com.saikumar.web</groupId>
   <artifactId>saikumar</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0-RELEASE</version>
   <packaging>war</packaging>
 
   <name>saikumar Maven Webapp</name>
