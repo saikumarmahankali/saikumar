@@ -64,4 +64,14 @@
       </plugins>
     </pluginManagement>
   </build>
+<distributionManagement>
+  <snapshotRepository>
+    <id>snaprepo</id>
+    <url>http://35.196.22.8:9999/nexus/content/repositories/snaprepo</url>
+  </snapshotRepository>
+<repository>
+    <id>releaserepo</id>
+    <url>http://35.196.22.8:9999/nexus/content/repositories/releaserepo</url>
+  </repository>
+</distributionManagement>
 </project>
